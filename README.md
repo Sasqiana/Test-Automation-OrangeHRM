@@ -1,4 +1,6 @@
-Repository ini berisi kumpulan tugas dan kuis seputar Quality Assurance Engineer, dengan latihan pengujian menggunakan beberapa aplikasi dan API dummy berikut:
+<h1>QUALITY ASSURANCE ENGINEER — TASKS & QUIZZES<h2>
+  
+Repository ini berisi kumpulan tugas dan quiz seputar Quality Assurance Engineer, dengan latihan pengujian menggunakan beberapa aplikasi dan API dummy berikut:
 OrangeHRM → untuk latihan UI Testing dan Automation Testing
 Reqres.in → untuk latihan API Testing
 
